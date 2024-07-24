@@ -12,5 +12,4 @@ ssh-keygen
 cat ~/.ssh/id_rsa.pub
 ```
 
-3. Clone repository 
-
+3. Clone repository
